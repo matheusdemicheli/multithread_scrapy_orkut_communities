@@ -6,3 +6,9 @@ Get all orkut communities, using Scrapy.
  http://scrapy.org/
 
 Based on https://github.com/eerlo/scrapy_orkut_communities
+
+
+Run
+===
+
+python scrapy_orkut_communities/data/program.py
